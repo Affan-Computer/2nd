@@ -1,0 +1,19 @@
+h1{
+    color:green
+}
+
+p{
+    color:rgb(197, 255, 80)
+}
+button{
+    color:rgba(220, 187, 20, 0.939);
+    background-color: rgb(149, 176, 62);
+}
+
+ body{
+/* background-color: rgb(255,255,0); */
+ background-color: #3aa4cb; 
+
+}
+
+
